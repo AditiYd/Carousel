@@ -51,7 +51,7 @@
     transition: background-color 0.3s ease-in-out;
     width: 1vw;
     height: 1vw;
-    background-color: black;
+    background-color:gray;
     border-radius: 50%;
     border: 0;
 }
