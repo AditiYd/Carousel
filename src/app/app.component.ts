@@ -13,8 +13,8 @@ export class AppComponent {
  
 
   image = [
-    "https://plus.unsplash.com/premium_photo-1664194584291-cfc411d05998?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-    "https://plus.unsplash.com/premium_photo-1672243970579-8cd2d0e9e0b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-    "https://images.unsplash.com/photo-1581618048854-b2f6f877cef3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    "https://images.squarespace-cdn.com/content/v1/5ca7eb2aa56827a4cf407fd9/1592754110428-9MZPBFUVS6CT6VNNSN02/20190417224211_IMG_6180+%281%29.jpg?format=1000wng",
+    "https://en.idei.club/uploads/posts/2023-06/1687614860_en-idei-club-p-cafe-aesthetic-dizain-1.jpg",
+    "https://barstoolsfurniture.com/wp-content/uploads/2018/12/Never-Coffee-In-Portland-Is-An-Aesthetic-Dream-Of-Modern-Design_3.jpg"
   ]
 }
